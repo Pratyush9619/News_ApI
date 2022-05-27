@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NEWS_API</string>
+    <string name="Title">Apple admits slowing down older iPhones</string>
+    <string name="Description">Customers have long suspect iPhones slow down Over time.Now ,Apple has confirmed some models do</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="term_amp_conditions"><u> term &amp; conditions </u></string>
+</resources>
